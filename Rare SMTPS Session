@@ -1,0 +1,7 @@
+# Description
+The Simple Mail Transfer Protocol (SMTP) and its SSL-secured variant SMTPS are used to send email. Attackers can use SMTP/S to exfiltrate data from your network.
+# Attacker's Goals
+SMTP and its SSL-secured variant SMTPS are used to send email. Attackers can use SMTP/S to exfiltrate data from your network.
+# Investigative Actions
+Check whether the initiator process is benign or normal for the host and/or user performing it.
+Check whether additional malicious commands were executed from the same process.
