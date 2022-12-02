@@ -7,3 +7,5 @@ An attacker does not know your network and is exploring it for new or unknown su
 # Investigative Actions
 Validate that the source is not a sanctioned port scanner.
 Check for suspicious artifacts in the endpoint profile.
+
+github api deneme
